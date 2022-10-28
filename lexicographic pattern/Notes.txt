@@ -1,0 +1,8 @@
+1 - String sort by default follows lexical sort
+
+2 - It's better to directly generate the required result 
+    instead of first generating the sequence ,and then,
+    manipulating result out of it.
+    (This way we can write better code with less time complexity)
+    
+3 - Always think of a recursive solution at the back of the mind.
